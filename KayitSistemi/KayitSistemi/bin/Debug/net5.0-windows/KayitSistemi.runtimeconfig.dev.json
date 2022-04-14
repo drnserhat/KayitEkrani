@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\excalibur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\excalibur\\.nuget\\packages"
+    ]
+  }
+}

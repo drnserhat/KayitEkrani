@@ -1,0 +1,11 @@
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\KayitSistemi.exe
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\KayitSistemi.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\KayitSistemi.deps.json
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\KayitSistemi.runtimeconfig.json
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\KayitSistemi.pdb
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\System.Data.SqlClient.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\runtimes\win-arm64\native\sni.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\runtimes\win-x64\native\sni.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\runtimes\win-x86\native\sni.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\KayitÖrneği\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
